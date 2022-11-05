@@ -1,0 +1,13 @@
+.clock_container{
+    margin: auto;
+    padding: 2vh;
+    border-radius: 2vh;
+    background-color: #EEEEEEc0;
+    width: 80vh;
+    height: fit-content;
+    box-shadow: 5px 5px 20px #000000b0;
+}
+h1{
+    font-size: 8vh;
+    border-bottom: 1px solid black;
+}

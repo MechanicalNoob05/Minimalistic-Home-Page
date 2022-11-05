@@ -1,0 +1,12 @@
+.quote_container{
+    border-radius: 1vh;
+    text-align: right;
+}
+.quote{
+    font-size: 2vh;
+}
+.quote_author{
+    font-style: oblique;
+    font-weight: 200;
+    font-size: 2vh;
+}
