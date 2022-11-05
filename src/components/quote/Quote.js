@@ -17,7 +17,7 @@ function Quote() {
   return (
     <div className='quote_container'>
         <p className='quote'>{quote.quote}</p>
-        <p className='quote_author'>{quote.character}</p>
+        <p className='quote_author'>- {quote.character}</p>
     </div>
   )
 }
